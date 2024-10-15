@@ -6,17 +6,12 @@
 
 <br>
 
-# Nome do projeto
+# Nome do projeto Modulo 2
 
-## Nome do grupo
+## Nome do grupo: Deniz Feital Armanhe
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
-
+- <a href="https://www.linkedin.com/in/deniz-feital-armanhe">Deniz Feital Armanhe</a>
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
 - <a href="https://www.linkedin.com/company/inova-fusca">Nome do Tutor</a>
@@ -26,7 +21,29 @@
 
 ## 📜 Descrição
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+
+# Sobre o código Python.
+
+Ele apresenta os requisitos mencionados como subalgoritmos, estrutura de dados, manipulacao de arquivos (gera um arquivo txt com o cadastro) e grava as informacoes em uma base de dados oracle (que foi disponibilizada pela FIAP) tabela chamada "educacao".
+
+
+# Fiap-Modulo2
+Exercicio sobre o Desafios da Mão de Obra Especializada no Agronegócio
+
+Desafios da Mão de Obra Especializada no Agronegócio
+O agronegócio é um dos pilares da economia global, responsável por uma parte significativa da produção de alimentos e recursos naturais. No entanto, enfrenta um dos maiores desafios do setor: a escassez de mão de obra especializada. Este fenômeno tem se tornado cada vez mais evidente e traz consequências diretas para a produtividade, a inovação e a sustentabilidade da agricultura moderna.
+Causas da Escassez de Mão de Obra Especializada
+1.	Mudanças Demográficas: A transição demográfica, caracterizada pelo envelhecimento da população rural e a migração de jovens para áreas urbanas em busca de melhores oportunidades, resulta em um déficit de trabalhadores qualificados no campo.
+2.	Falta de Incentivos: A falta de programas de capacitação e incentivos para formação profissional no setor agrícola torna difícil a atração de novos talentos. Muitos jovens não veem a agricultura como uma carreira viável ou atrativa, o que agrava ainda mais a situação.
+3.	Tecnologia Avançada: O avanço tecnológico no agronegócio, como a automação, a utilização de drones e a análise de dados, exige uma mão de obra com habilidades específicas. Infelizmente, a maioria dos trabalhadores não possui a formação necessária para lidar com essas inovações.
+Solução Potencial
+Para enfrentar esse desafio, é fundamental desenvolver estratégias que possam atrair e reter talentos no setor, e consideramos um cadastro nacional de treinamento para as pessoas interessadas neste vasto ramo de atividade:
+•	Programas de Capacitação: Investir em cursos de formação e treinamentos voltados para as novas tecnologias e práticas agrícolas pode ajudar a preparar uma nova geração de trabalhadores qualificados.
+•	Parcerias com Instituições Educacionais: A colaboração entre empresas do agronegócio e instituições de ensino pode facilitar a formação de profissionais com as competências necessárias para o setor.
+•	Campanhas de Conscientização: Promover a imagem do agronegócio como uma carreira viável e gratificante pode ajudar a atrair jovens talentos.
+Plano
+Este programa tem como objetivo efetuar um cadastro nacional de pessoas interessadas em trabalhar no agronegócio. Em um primeiro momento ele cadastrará os interessados onde eles podem informar o ramo de atividade que são especializados.
+Com base nesta informação as empresas de agronegócio podem criar suas bases de dados para especialização destes candidatos. É uma primeira fase.
 
 
 ## 📁 Estrutura de pastas
@@ -49,21 +66,8 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório. Considere a explicação organizada em fase.*
+*Para executar o código basta rodar o programa educaocao.py (seja através do Visual Studio Code ou através de linha de comando Python educacao.py. Foi necessário a instalação do panda e do CX_Oracle
 
-
-## 🗃 Histórico de lançamentos
-
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
-    *
 
 ## 📋 Licença
 
