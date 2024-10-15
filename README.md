@@ -14,11 +14,7 @@
 - <a href="https://www.linkedin.com/in/deniz-feital-armanhe">Deniz Feital Armanhe</a>
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Tutor</a>
-### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
-
-
+- Lucas Gomes Moreira
 ## 📜 Descrição
 
 
