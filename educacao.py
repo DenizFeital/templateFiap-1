@@ -1,3 +1,4 @@
+#atualizado no dia 15 de Outubro
 # Importação dos módulos
 import os
 import oracledb
